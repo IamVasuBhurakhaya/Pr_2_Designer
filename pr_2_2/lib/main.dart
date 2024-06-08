@@ -1,17 +1,5 @@
 import 'package:flutter/material.dart';
 
-// appbar: #ff5353
-// graphic : #50ab52
-// flutter : #2992e5
-// android : #54a55b
-// design : #ecc116
-// web : #2677be
-// fashion : #c8d544
-// animtion : #029686
-// ita-cs : #2992e9
-// game : #e9c018
-// red & white : #f34133
-
 void main() {
   runApp(
     MaterialApp(
@@ -181,3 +169,15 @@ void main() {
     ),
   );
 }
+
+// appbar: #ff5353
+// graphic : #50ab52
+// flutter : #2992e5
+// android : #54a55b
+// design : #ecc116
+// web : #2677be
+// fashion : #c8d544
+// animtion : #029686
+// ita-cs : #2992e9
+// game : #e9c018
+// red & white : #f34133
